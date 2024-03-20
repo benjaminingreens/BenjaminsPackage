@@ -8,5 +8,6 @@ setup(
         # List your package's dependencies here, e.g.,
         # 'numpy',
         # 'pandas',
+        'pandas'
     ],
 )
